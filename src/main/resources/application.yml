@@ -1,2 +1,4 @@
-﻿spring.application.name= 大家好乱码问题tmd
-spring.application.age= 12
+﻿spring:
+  application:
+    name: 哈哈
+    age: 211212
